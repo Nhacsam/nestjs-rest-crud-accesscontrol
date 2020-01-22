@@ -1,0 +1,13 @@
+{
+  "name": "nestjs-rest-crud-accesscontrol",
+  "version": "0.0.1-alpha.2",
+  "description": "Access control plugin for nestjs-rest-crud",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Nhacsam/nestjs-rest-crud-accesscontrol.git",
+  "author": "Nicolas Djambazian <nicolas@djambazian.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "nestjs-rest-crud": "^0.0.1-alpha.2"
+  }
+}
